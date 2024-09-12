@@ -1,0 +1,179 @@
+
+
+/* @media (min-width: 720px) {
+
+    .cont-position {
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    .textpo {
+        left: 110px;
+        top: 40%;
+        transform: none;
+        text-align: left;
+    }
+
+    .position-img {
+        margin-right: 50px;
+        margin-top: 50px;
+        width: 350px;
+    }
+}
+
+@media (min-width: 820px) {
+
+    .cont-position {
+        flex-direction: row;
+        flex-wrap: nowrap;
+        margin-top: 20%;
+    }
+
+    .textpo {
+        left: 170px;
+        top: 40%;
+        transform: none;
+        text-align: left;
+    }
+
+    .position-img {
+        margin-right: 50px;
+        margin-top: 50px;
+        width: 350px;
+    }
+}
+
+@media (min-width: 992px) {
+
+    /* Apply these styles for large screens and up */
+    /* .cont-position {
+        flex-direction: row;
+        flex-wrap: nowrap;
+        max-width: 1200px;
+    }
+
+    .textpo {
+        left: 410px;
+        top: 40%;
+        transform: none;
+        text-align: left;
+    }
+
+    .position-img {
+        margin-right: 50px;
+        margin-top: 50px;
+        width: 350px;
+    }
+}
+
+@media (min-width: 1114px) {
+
+    .cont-position {
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    .textpo {
+        left: 410px;
+        top: 40%;
+        transform: none;
+        text-align: left;
+    }
+
+    .position-img {
+        margin-right: 80px;
+        margin-top: 50px;
+        width: 350px;
+    }
+}
+
+
+@media (min-width: 1200px) {
+
+    .cont-position {
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    .textpo {
+        left: 510px;
+        top: 40%;
+        transform: none;
+        text-align: left;
+    }
+
+    .position-img {
+        margin-right: 50px;
+        margin-top: 50px;
+        width: 350px;
+    }
+}
+
+@media (min-width: 1280px) {
+
+    .cont-position {
+        flex-direction: row;
+        flex-wrap: nowrap;
+        margin-right: 200px;
+        margin-top: 20px;
+    }
+
+    .textpo {
+        left: 410px;
+        top: 40%;
+        transform: none;
+        text-align: left;
+    }
+
+    .position-img {
+        margin-right: 50px;
+        margin-top: 50px;
+        width: 350px;
+    }
+}
+
+@media (min-width: 1366px) { */
+
+    /* Apply these styles for large screens and up */
+    /* .cont-position {
+        flex-direction: row;
+        flex-wrap: nowrap;
+        max-width: 1200px;
+    }
+
+    .textpo {
+        left: 480px;
+        top: 40%;
+        transform: none;
+        text-align: left;
+    }
+
+    .position-img {
+        margin-right: 50px;
+        margin-top: 50px;
+        width: 350px;
+    }
+}
+
+@media (min-width: 1400px) { */
+
+    /* Apply these styles for large screens and up */
+    /* .cont-position {
+        flex-direction: row;
+        flex-wrap: nowrap;
+        max-width: 1200px;
+    }
+
+    .textpo {
+        left: 520px;
+        top: 40%;
+        transform: none;
+        text-align: left;
+    }
+
+    .position-img {
+        margin-right: 50px;
+        margin-top: 50px;
+        width: 350px;
+    }
+/* } 
